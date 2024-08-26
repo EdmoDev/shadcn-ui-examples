@@ -17,7 +17,7 @@ export const Icons = {
       <line
         x1="192"
         y1="40"
-        x2="40"
+        x2="40"z
         y2="192"
         fill="none"
         stroke="currentColor"
